@@ -1,1 +1,3 @@
 # Odin-Recipes
+This is me showing you some really home-made delicious dishes!
+It has been long I coded, I'm basically trying to refresh my memory on html/css...
